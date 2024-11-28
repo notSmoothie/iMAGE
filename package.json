@@ -1,0 +1,20 @@
+{
+    "name": "enclid-a-finder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@gitlab.kajot.cz:ondruska/enclid-a-finder.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.8",
+        "canvas": "^2.11.2",
+        "express": "^4.21.1"
+    }
+}
